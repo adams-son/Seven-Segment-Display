@@ -5,7 +5,7 @@
 
 #include "7SD.h"
 
-/// Halllå
+/// Halllåå
 int test = 0;
 
 
