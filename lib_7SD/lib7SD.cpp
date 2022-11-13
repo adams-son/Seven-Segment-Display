@@ -1,12 +1,14 @@
 /**
- * @file main.cpp
+ * @file lib7SD.cpp
  * testing 1 2 1 2 
  */
+
+#include "7SD.h"
 
 /// Halllå
 int test = 0;
 
-void testFunc();/// test function; 
+
 /**
  * @brief bla bla bla bla
  * 
@@ -16,12 +18,6 @@ void testFunc();/// test function;
  * @param argv 
  * @return int 
  */
-int main(int argc, char const *argv[])
-{
-    /* code */
-    return 0;
-}
-
-void testFunc(){
-    test++;
+int testFunc(){
+    return 10;
 }

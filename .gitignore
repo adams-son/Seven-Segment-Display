@@ -30,7 +30,8 @@
 *.exe
 *.out
 *.app
-main 
+Lib_7SD/7SD 
+test/
 
 #doxygen
 html
