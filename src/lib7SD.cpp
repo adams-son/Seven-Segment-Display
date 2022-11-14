@@ -1,3 +1,10 @@
+/*! \mainpage Seven Segment Display
+ *
+ * 
+ * - \subpage lib7SD.cpp "AAA"
+ *
+ *
+ */ 
 /**
  * @file lib7SD.cpp
  * testing 1 2 1 2 

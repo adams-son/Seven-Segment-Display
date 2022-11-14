@@ -30,8 +30,10 @@
 *.exe
 *.out
 *.app
-Lib_7SD/7SD 
+
+#####
 test/
+build/
 
 #doxygen
 html
